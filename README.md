@@ -1,3 +1,3 @@
 # Sokvagar
 
-Hej, detta är övningen Sökvägar!
+Detta är övningen Sökvägar!
